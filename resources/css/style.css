@@ -1,0 +1,57 @@
+
+body {
+  background-color: rgba(192, 192, 192, 0.295);
+}
+
+/*Dasmoto's Arts & Craft*/
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+}
+
+/*Brushes*/
+
+h2.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+/* Frames*/
+
+h2.frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+/*Paint*/
+
+h2.paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+h3 {
+  font-size: 22px;
+}
+p {
+  font-size: 19px;
+}
